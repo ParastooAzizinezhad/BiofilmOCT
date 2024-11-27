@@ -1,0 +1,22 @@
+name: BiofilmOCT
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - matplotlib
+  - scikit-image
+  - numpy
+  - Pillow
+  - pandas
+  - scikit-learn
+  - xmltodict
+  - ultralytics
+  - transformers
+  - numba
+  - ipywidgets
+  - pip:
+      - opencv-python
+      - segment_anything
+      - torch

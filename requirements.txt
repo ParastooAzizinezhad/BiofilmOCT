@@ -1,0 +1,14 @@
+matplotlib
+scikit-image
+torch
+segment_anything
+numpy
+Pillow
+pandas
+opencv-python
+scikit-learn
+xmltodict
+ultralytics
+transformers
+numba
+ipywidgets
